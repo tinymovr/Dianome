@@ -1,2 +1,2 @@
-# Safedist
-Schematic and Board file for the Safedist PDB
+# Dianome
+Schematic and Board file for the Dianome PDB
