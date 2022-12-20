@@ -1,2 +1,2 @@
 # Dianome
-Schematic and Board file for the Dianome PDB
+Schematic and Board file for the Dianome R2 PDB
